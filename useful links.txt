@@ -1,0 +1,25 @@
+What is a DC Motor: https://www.youtube.com/watch?v=LAtPHANEfQo
+
+
+
+Seperately excited vs. Shunt excited: https://www.youtube.com/watch?v=m2h08euXoDA&list=PLPpCFgQP7QKHUOFYvZhQ6ra5XrU3dN2dD&index=28
+
+
+
+Four Quadrant Control with Simulink: https://www.youtube.com/watch?v=LVEipkjerWo
+
+
+
+Motor Driver IC info: https://www.youtube.com/watch?v=PVyAcgYkzDs
+
+https://www.youtube.com/watch?v=ygrsIqWOh3Y
+
+https://www.amazon.com/180VDC-motor-controller-output-switch/dp/B0716R6RZQ
+
+https://www.quora.com/How-can-I-convert-220-AC-to-180-DC
+
+https://qr.ae/pvdHLs
+
+
+
+
