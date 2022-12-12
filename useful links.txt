@@ -19,7 +19,12 @@ https://qr.ae/pvdHLs
 
 Hall sensor 3144  test: https://www.youtube.com/watch?v=pIflB4FQpNE
 
+
+After presentation:
 RPM Counter sensor: https://www.youtube.com/watch?v=XNoN2xGo1F0
+
 Current Sensing with Hall Effect Sensor: https://www.youtube.com/watch?v=p1pQGql65LE
+Forget the above link, ACS724 is what you are looking for: https://www.n11.com/urun/acs724-50a-hall-akim-sensor-modulu-14737511?magaza=myrobotech
+ACS724 test: https://www.youtube.com/watch?v=ZtrgBSlXcsE
 
 
