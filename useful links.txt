@@ -1,13 +1,10 @@
 What is a DC Motor: https://www.youtube.com/watch?v=LAtPHANEfQo
 
 
-
 Seperately excited vs. Shunt excited: https://www.youtube.com/watch?v=m2h08euXoDA&list=PLPpCFgQP7QKHUOFYvZhQ6ra5XrU3dN2dD&index=28
 
 
-
 Four Quadrant Control with Simulink: https://www.youtube.com/watch?v=LVEipkjerWo
-
 
 
 Motor Driver IC info: https://www.youtube.com/watch?v=PVyAcgYkzDs
@@ -21,5 +18,8 @@ https://www.quora.com/How-can-I-convert-220-AC-to-180-DC
 https://qr.ae/pvdHLs
 
 Hall sensor 3144  test: https://www.youtube.com/watch?v=pIflB4FQpNE
+
+RPM Counter sensor: https://www.youtube.com/watch?v=XNoN2xGo1F0
+Current Sensing with Hall Effect Sensor: https://www.youtube.com/watch?v=p1pQGql65LE
 
 
