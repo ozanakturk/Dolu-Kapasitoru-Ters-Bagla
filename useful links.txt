@@ -27,4 +27,4 @@ Current Sensing with Hall Effect Sensor: https://www.youtube.com/watch?v=p1pQGql
 Forget the above link, ACS724 is what you are looking for: https://www.n11.com/urun/acs724-50a-hall-akim-sensor-modulu-14737511?magaza=myrobotech
 ACS724 test: https://www.youtube.com/watch?v=ZtrgBSlXcsE
 
-
+Bootstrap Component Selection Guide by TI: https://www.ti.com/lit/an/slua887/slua887.pdf?ts=1672139985716&ref_url=https%253A%252F%252Fwww.google.com%252F
