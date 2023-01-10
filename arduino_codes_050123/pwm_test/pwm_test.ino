@@ -14,7 +14,7 @@ void loop(){
     op = Serial.readString();
     pwm((op.toInt())/10.0);
   */  
-   analogWrite(pwm_pin, 127);
+   analogWrite(pwm_pin, 200);
    delay(3000);
    /*analogWrite(pwm_pin, 128);
    delay(3000);
